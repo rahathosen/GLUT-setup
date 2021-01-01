@@ -1,4 +1,4 @@
-# Steps to Setup OpenGL (GLUT) in CodeBlocks
+# Steps to Setup OpenGL (GLUT) in CodeBlocks(17.12)
 
 
 Step-1 : Install CodeBlocks Application
