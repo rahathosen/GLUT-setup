@@ -16,7 +16,7 @@ Step-4 : Copy the glut32.dll and paste it into the directory
 	
 Step-4 :GLUT LOCATION  "C:\Program Files(x86)\CodeBlocks\MinGW"
 
-Finally create a new project CodeBlocks in GLUT project and run 
+Finally create a new project(2D / 3D Graphics) CodeBlocks in "GLUT project" and run 
 
 In Every OpenGL Program Include the Following Header Files:-
 ```c
